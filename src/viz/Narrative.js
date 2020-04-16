@@ -217,7 +217,7 @@ export default class Narrative extends Component {
       color = "#2994D2"
       cand = 1
       cand_id = "blue"
-    } else if (rng < 8) {
+    } else if (rng < 9) {
       color = "#34495D"
       cand = 2
       cand_id = "grey"
